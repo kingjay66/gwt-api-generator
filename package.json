@@ -16,7 +16,7 @@
     "jsonfile": "^2.2.1",
     "lodash": "latest",
     "map-stream": "latest",
-    "marked": "latest",
+    "marked": "0.8.2",
     "minimist": "^1.1.1",
     "require-dir": "latest",
     "run-sequence": "latest",
